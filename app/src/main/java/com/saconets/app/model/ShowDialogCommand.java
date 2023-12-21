@@ -1,4 +1,4 @@
-package cm.welltechafrica.saconet.model;
+package com.saconets.app.model;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -12,7 +12,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatDialogFragment;
 
-import cm.welltechafrica.saconet.R;
+import com.saconets.app.R;
 
 public class ShowDialogCommand extends AppCompatDialogFragment {
 

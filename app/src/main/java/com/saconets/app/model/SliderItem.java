@@ -1,4 +1,4 @@
-package cm.welltechafrica.saconet.model;
+package com.saconets.app.model;
 
 public class SliderItem {
 

@@ -1,4 +1,4 @@
-package cm.welltechafrica.saconet.activities;
+package com.saconets.app.activities;
 import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-import cm.welltechafrica.saconet.databinding.ActivitySplashScreenBinding;
+import com.saconets.app.databinding.ActivitySplashScreenBinding;
 
 
 public class SplashScreenActivity extends AppCompatActivity {

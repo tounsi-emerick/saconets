@@ -6,7 +6,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "cm.welltechafrica.saconet"
+        applicationId "com.saconets.app"
         minSdk 23
         targetSdk 32
         versionCode 1

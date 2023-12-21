@@ -1,4 +1,4 @@
-package cm.welltechafrica.saconet.fragments;
+package com.saconets.app.fragments;
 
 import android.os.Bundle;
 
@@ -8,7 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import cm.welltechafrica.saconet.R;
+import com.saconets.app.R;
 
 public class ShopFragment extends Fragment {
 

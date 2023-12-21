@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="cm.welltechafrica.saconet">
+    package="com.saconets.app">
     <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:allowBackup="true"
@@ -14,25 +14,25 @@
         android:theme="@style/Theme.Saconet"
         tools:targetApi="31">
         <activity
-            android:name=".activities.WebViewActivity"
+            android:name="com.saconets.app.activities.WebViewActivity"
             android:exported="false" />
         <activity
-            android:name=".activities.CarriereActivity"
+            android:name="com.saconets.app.activities.CarriereActivity"
             android:exported="false" />
         <activity
-            android:name=".activities.SavActivity"
+            android:name="com.saconets.app.activities.SavActivity"
             android:exported="false" />
         <activity
-            android:name=".activities.ContactActivity"
+            android:name="com.saconets.app.activities.ContactActivity"
             android:exported="false" />
         <activity
-            android:name=".activities.MenuActivity"
+            android:name="com.saconets.app.activities.MenuActivity"
             android:exported="false" />
         <activity
-            android:name=".activities.ShopActivity"
+            android:name="com.saconets.app.activities.ShopActivity"
             android:exported="false" />
         <activity
-            android:name=".activities.SplashScreenActivity"
+            android:name="com.saconets.app.activities.SplashScreenActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:exported="true"
             android:theme="@style/Theme.Saconet.Fullscreen">
@@ -43,7 +43,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".activities.MainActivity"
+            android:name="com.saconets.app.activities.MainActivity"
             android:exported="true" />
     </application>
 

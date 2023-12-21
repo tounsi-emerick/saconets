@@ -1,4 +1,4 @@
-package cm.welltechafrica.saconet.fragments;
+package com.saconets.app.fragments;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -19,9 +19,9 @@ import java.util.ArrayList;
 import java.util.Timer;
 import java.util.TimerTask;
 
-import cm.welltechafrica.saconet.R;
-import cm.welltechafrica.saconet.model.SliderAdapter;
-import cm.welltechafrica.saconet.model.SliderItem;
+import com.saconets.app.R;
+import com.saconets.app.model.SliderAdapter;
+import com.saconets.app.model.SliderItem;
 
 public class HomeFragment extends Fragment {
     LinearLayout dotsLayout;

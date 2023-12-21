@@ -1,4 +1,4 @@
-package cm.welltechafrica.saconet.model;
+package com.saconets.app.model;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -12,7 +12,7 @@ import com.makeramen.roundedimageview.RoundedImageView;
 
 import java.util.ArrayList;
 
-import cm.welltechafrica.saconet.R;
+import com.saconets.app.R;
 
 public class SliderAdapter extends RecyclerView.Adapter<SliderAdapter.SliderViewHolder> {
 

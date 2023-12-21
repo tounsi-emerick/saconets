@@ -1,4 +1,4 @@
-package cm.welltechafrica.saconet.fragments;
+package com.saconets.app.fragments;
 
 import android.os.Bundle;
 
@@ -10,8 +10,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import cm.welltechafrica.saconet.R;
-import cm.welltechafrica.saconet.model.PageData;
+import com.saconets.app.R;
+import com.saconets.app.model.PageData;
 
 public class DetailFragment extends Fragment {
 

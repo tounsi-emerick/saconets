@@ -1,11 +1,11 @@
-package cm.welltechafrica.saconet.activities;
+package com.saconets.app.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.view.View;
 
-import cm.welltechafrica.saconet.R;
+import com.saconets.app.R;
 
 public class ContactActivity extends AppCompatActivity {
 

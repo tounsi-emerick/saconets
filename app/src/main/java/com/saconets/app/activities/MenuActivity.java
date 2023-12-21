@@ -1,4 +1,4 @@
-package cm.welltechafrica.saconet.activities;
+package com.saconets.app.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.widget.ConstraintLayout;
@@ -26,9 +26,9 @@ import java.util.List;
 import java.util.Timer;
 import java.util.TimerTask;
 
-import cm.welltechafrica.saconet.R;
-import cm.welltechafrica.saconet.model.SliderAdapter;
-import cm.welltechafrica.saconet.model.SliderItem;
+import com.saconets.app.R;
+import com.saconets.app.model.SliderAdapter;
+import com.saconets.app.model.SliderItem;
 
 public class MenuActivity extends AppCompatActivity {
 

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">saconet</string>
+    <string name="app_name">Saconets</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_activity_splash_screen">SplashScreenActivity</string>
     <string name="dummy_button">Dummy Button</string>

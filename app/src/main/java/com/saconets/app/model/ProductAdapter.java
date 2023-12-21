@@ -1,6 +1,5 @@
-package cm.welltechafrica.saconet.model;
+package com.saconets.app.model;
 
-import android.content.Context;
 import android.graphics.Paint;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -14,7 +13,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.ArrayList;
 
-import cm.welltechafrica.saconet.R;
+import com.saconets.app.R;
 
 public class ProductAdapter extends RecyclerView.Adapter<ProductAdapter.ProductViewHolder> {
 

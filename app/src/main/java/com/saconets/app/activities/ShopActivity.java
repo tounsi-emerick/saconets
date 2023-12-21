@@ -1,20 +1,18 @@
-package cm.welltechafrica.saconet.activities;
+package com.saconets.app.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import android.annotation.SuppressLint;
 import android.os.Bundle;
-import android.util.DisplayMetrics;
 import android.view.View;
 
 import java.util.ArrayList;
 
-import cm.welltechafrica.saconet.R;
-import cm.welltechafrica.saconet.model.Product;
-import cm.welltechafrica.saconet.model.ProductAdapter;
-import cm.welltechafrica.saconet.model.ShowDialogCommand;
+import com.saconets.app.R;
+import com.saconets.app.model.Product;
+import com.saconets.app.model.ProductAdapter;
+import com.saconets.app.model.ShowDialogCommand;
 
 public class ShopActivity extends AppCompatActivity implements ShowDialogCommand.GetShowInputDialogListenner {
 

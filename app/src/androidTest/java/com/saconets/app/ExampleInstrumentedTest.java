@@ -1,4 +1,4 @@
-package cm.welltechafrica.saconet;
+package com.saconets.app;
 
 import android.content.Context;
 

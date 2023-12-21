@@ -1,15 +1,13 @@
-package cm.welltechafrica.saconet.activities;
+package com.saconets.app.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.content.Intent;
 import android.os.Bundle;
-import android.webkit.WebResourceRequest;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
-import cm.welltechafrica.saconet.R;
+import com.saconets.app.R;
 
 public class WebViewActivity extends AppCompatActivity {
 

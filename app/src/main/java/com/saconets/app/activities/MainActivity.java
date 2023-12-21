@@ -1,4 +1,4 @@
-package cm.welltechafrica.saconet.activities;
+package com.saconets.app.activities;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -15,10 +15,10 @@ import android.widget.FrameLayout;
 import com.google.android.material.navigation.NavigationView;
 import com.google.android.material.transition.MaterialElevationScale;
 
-import cm.welltechafrica.saconet.R;
-import cm.welltechafrica.saconet.fragments.DetailFragment;
-import cm.welltechafrica.saconet.fragments.HomeFragment;
-import cm.welltechafrica.saconet.model.PageData;
+import com.saconets.app.R;
+import com.saconets.app.fragments.DetailFragment;
+import com.saconets.app.fragments.HomeFragment;
+import com.saconets.app.model.PageData;
 
 public class MainActivity extends AppCompatActivity {
 
